@@ -19,6 +19,7 @@ My Research Interest
   - GNSS-Based Localization System
 - Cyber-Physical Systems (CPS)
   - Autonomous Vehicles
+  - Unmanned aerial vehicle
   - Smart Agriculture
 
 <!-- Google tag (gtag.js) -->

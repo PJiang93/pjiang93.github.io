@@ -55,6 +55,52 @@ Publications
   <li>P. Jiang, X. Tian, C. Xin, W. He, "Teaching Hands-On Cyber Defense Labs to Middle School and High School Students: Our Experience from GenCyber Camps," in <em>EdMedia+ Innovate Learning</em>, Association for the Advancement of Computing in Education (AACE), 2017.</li>
 </ul>
 
+Grant
+======
+<hr />
+
+Active Project: 
+<ul class="list-disc mx-3 mb-10 grid gap-2">
+  <li>
+    NSF, "CyberTraining: T3-CIDERS: A Train-the-Trainer Approach to Fostering CI- and Data-Enabled Research in CyberSecurity,"  $750K, 2023 - 2026, Role: <b>Co-PI</b>, Project Website: <a href="https://sites.wp.odu.edu/t3-ciders/">T3-CIDERS</a>
+  </li>
+</ul>
+
+Past Projects:
+<ul class="list-disc mx-3 mb-10 grid gap-2">
+  <li>
+   CCI, "A Paradigm Shift: Innovating Supply Chain Security for AI-Assisted Devices," $100k, 2024-2025, Role: <b>Co-PI</b>
+  </li>
+  <li>
+    NSF, "Improving the Success of Low-Income Students in a Cybersecurity Program,"  $1M, 2018 - 2024, Role: <b>Co-PI</b>
+  </li>
+  <li>
+    NSF, "REU Site: Deep Learning Driven Cybersecurity Research in a Multidisciplinary Environment," $405K, 2020 - 2024, Role: <b>Co-PI</b>
+  </li>
+  <li>
+    NSA, "Intelligent Learning in Cyber Defense for JROTC Students and Teachers," $175K, 2022 - 2024, Role: <b>Co-PI</b>
+  </li>
+  <li>
+    NSA, "Cybersecurity+AI: a GenCyber Camp in the Age of AI to Train K-12 Teachers for Classroom Teaching of Cybersecurity," $145K, 2021 - 2023, Role: <b>Co-PI</b>
+  </li>
+  <li>
+    CCI, "Developing a Holistic Evaluation Framework for Multi-Modal AI Security and Trustworthiness on Smart IoT Devices in NextG Wireless Networks," $50K, 2023 - 2024,  Role: <b>Co-PI</b>
+  </li>
+  <li>
+    CCI, "Spotlighting and Mitigating Cyber‐Attacks in AIoT‐enabled Maritime Transportation," $100k, 2023 - 2024,  Role: <b>Co-PI</b>
+  </li> 
+  <li>
+    CCI, "GPU Powered IoT Testbed to Expand CCI Lab Environment," $148K, 2022 - 2023, Role: <b>PI</b>
+  </li>
+  <li>
+    CCI, "Sensor Degradation Detection Algorithm for Automated Driving Systems," $200k, 2021 - 2022,  Role: <b>Senior Personnel</b>
+  </li>
+  <li>
+    CCI, "DeepPOSE: Securing Transportation Systems from GPS Spoofing Attacks," $200k,  2021 - 2022,  Role: <b>Senior Personnel</b>
+  </li>
+</ul>
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5LS8FJ1QJ"></script>
 <script>
