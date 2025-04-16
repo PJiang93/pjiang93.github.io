@@ -11,8 +11,7 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 
 
 
-My Research Interest 
-======
+## My Research Interest 
 - Cybersecurity & Artificial Intelligence (AI)
 - Wireless Communication
   - 5G/NextG Technology
@@ -21,6 +20,14 @@ My Research Interest
   - Autonomous Vehicles
   - Unmanned Aerial Vehicle
   - Smart Agriculture
+
+
+
+## News
+### Open Graduate Assistant (GA) Position - Fall 2025
+
+I am thrilled to announce an open Graduate Assistant (GA) position starting in **Fall 2025**. This position will focus on the **security and trustworthiness of UAV operations**. 
+I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other Related fields. Please feel free to contact me for more details.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5LS8FJ1QJ"></script>
