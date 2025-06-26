@@ -23,6 +23,7 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 
 
 ## Recent News
+
 <details>
   <summary><strong>April 2024: Open Graduate Assistant (GA) Position - Fall 2025</strong></summary>
 
@@ -30,6 +31,9 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
   I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other related fields. Please feel free to contact me for more details.
 
 </details>
+
+<!-- Reduced line space using a smaller margin -->
+<div style="margin-top: 0.5em;"></div>
 
 <details>
   <summary><strong>June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems</strong></summary>
