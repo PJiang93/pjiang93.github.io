@@ -25,10 +25,16 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 ## Recent News
 
 <details>
-  <summary>April 2024: Open Graduate Assistant (GA) Position - Fall 2025</summary>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      April 2024: Open Graduate Assistant (GA) Position - Fall 2025
+    </span>
+  </summary>
 
-  I am thrilled to announce an open Graduate Assistant (GA) position starting in <strong>Fall 2025</strong>. This position will focus on the <strong>security and trustworthiness of UAV operations</strong>.<br>
-  I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other related fields. Please feel free to contact me for more details.
+  <div style="font-size: 0.95em;">
+    I am thrilled to share an open Graduate Assistant (GA) position starting in <strong>Fall 2025</strong>. This position will focus on the <strong>security and trustworthiness of UAV operations</strong>.<br>
+    I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other related fields. Please feel free to contact me for more details.
+  </div>
 
 </details>
 
@@ -36,20 +42,22 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 <div style="margin-top: 0.5em;"></div>
 
 <details>
-  <summary>June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems</summary>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;">
+      June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
 
-  I am pleased to announce that I have received a University of Nebraska Collaboration Initiative Grant for my project, <em>TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything</em>.
-
-  <details>
-    <summary>Read more</summary>
+  I am pleased to share that I have received a University of Nebraska Collaboration Initiative Grant for my project, <em>TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything</em>.
 
   This one-year, $100,000 grant—funded by the Nebraska Research Initiative—supports innovative research across the University of Nebraska system.
-
+  
   The TRUST-V2X project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a particular focus on real-world applications in V2X (Vehicle-to-Everything) systems.
 
   I am actively seeking talented and motivated Ph.D. students interested in joining the research team for this project. If you are passionate about cybersecurity, AI, or autonomous systems, please feel free to reach out for more information.
 
-  </details>
+  </div>
 </details>
 
 <!-- Google tag (gtag.js) -->
