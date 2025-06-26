@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary Informatics (Si2), University of Nebraska at Omaha. I earned my Ph.D. in Electrical and Computer Engineering from Old Dominion University (ODU) in 2024, under the guidance of [Dr. Chunsheng Xin](https://www.odu.edu/directory/chunsheng-xin) and [Dr. Hongyi (Michael) Wu](https://ece.engineering.arizona.edu/faculty-staff/faculty/hongyi-michael-wu). Prior to joining UNO, I served as a lecturer in cybersecurity at Old Dominion University starting in 2019. I also hold a B.S. in Communication Engineering from Chongqing University of Posts and Telecommunications (CQUPT), China (2014), and an M.E. in Electrical and Computer Engineering from Old Dominion University (2017).
+I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary Informatics (Si2), University of Nebraska at Omaha (UNO). I earned my Ph.D. in Electrical and Computer Engineering from Old Dominion University (ODU) in 2024, under the guidance of [Dr. Chunsheng Xin](https://www.odu.edu/directory/chunsheng-xin) and [Dr. Hongyi (Michael) Wu](https://ece.engineering.arizona.edu/faculty-staff/faculty/hongyi-michael-wu). Prior to joining UNO, I served as a lecturer in cybersecurity at Old Dominion University starting in 2019. I also hold a B.S. in Communication Engineering from Chongqing University of Posts and Telecommunications (CQUPT), China (2014), and an M.E. in Electrical and Computer Engineering from Old Dominion University (2017).
 
 
 
