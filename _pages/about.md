@@ -29,6 +29,10 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 I am thrilled to announce an open Graduate Assistant (GA) position starting in **Fall 2025**. This position will focus on the **security and trustworthiness of UAV operations**. 
 I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other Related fields. Please feel free to contact me for more details.
 
+### Grant Awarded: Enhancing Security and Trustworthiness in V2X Systems
+
+I am excited to share that I have been awarded a University of Nebraska Collaboration Initiative Grant for my project titled *TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything*. This one-year, $100,000 grant, unded by the Nebraska Research Initiative, supports innovative research across the University of Nebraska system. The project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a focus on real-world applications in V2X systems. 
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5LS8FJ1QJ"></script>
 <script>

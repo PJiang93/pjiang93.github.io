@@ -61,6 +61,9 @@ Grant
 
 Active Project: 
 <ul class="list-disc mx-3 mb-10 grid gap-2">
+    <li>
+    <b>[New]</b> NRI, "TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything,"  $100K, 2025 - 2026, Role: <b>PI</b>, Project Website: TBA. 
+  </li>
   <li>
     NSF, "CyberTraining: T3-CIDERS: A Train-the-Trainer Approach to Fostering CI- and Data-Enabled Research in CyberSecurity,"  $750K, 2023 - 2026, Role: <b>Co-PI</b>, Project Website: <a href="https://sites.wp.odu.edu/t3-ciders/">T3-CIDERS</a>
   </li>
