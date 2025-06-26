@@ -22,16 +22,31 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
   - Smart Agriculture
 
 
+## Recent News
+<details>
+  <summary><strong>April 2024: Open Graduate Assistant (GA) Position - Fall 2025</strong></summary>
 
-## News
-### Open Graduate Assistant (GA) Position - Fall 2025
+  I am thrilled to announce an open Graduate Assistant (GA) position starting in <strong>Fall 2025</strong>. This position will focus on the <strong>security and trustworthiness of UAV operations</strong>.<br>
+  I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other related fields. Please feel free to contact me for more details.
 
-I am thrilled to announce an open Graduate Assistant (GA) position starting in **Fall 2025**. This position will focus on the **security and trustworthiness of UAV operations**. 
-I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other Related fields. Please feel free to contact me for more details.
+</details>
 
-### Grant Awarded: Enhancing Security and Trustworthiness in V2X Systems
+<details>
+  <summary><strong>June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems</strong></summary>
 
-I am excited to share that I have been awarded a University of Nebraska Collaboration Initiative Grant for my project titled *TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything*. This one-year, $100,000 grant, unded by the Nebraska Research Initiative, supports innovative research across the University of Nebraska system. The project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a focus on real-world applications in V2X systems. 
+  I am pleased to announce that I have received a University of Nebraska Collaboration Initiative Grant for my project, <em>TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything</em>.
+
+  <details>
+    <summary>Read more</summary>
+
+  This one-year, $100,000 grant—funded by the Nebraska Research Initiative—supports innovative research across the University of Nebraska system.
+
+  The TRUST-V2X project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a particular focus on real-world applications in V2X (Vehicle-to-Everything) systems.
+
+  I am actively seeking talented and motivated Ph.D. students interested in joining the research team for this project. If you are passionate about cybersecurity, AI, or autonomous systems, please feel free to reach out for more information.
+
+  </details>
+</details>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5LS8FJ1QJ"></script>
