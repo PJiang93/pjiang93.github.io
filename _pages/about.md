@@ -52,9 +52,9 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
   I am pleased to share that I have received a University of Nebraska Collaboration Initiative Grant for my project, <em>TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything</em>.
 
   This one-year, $100,000 grant—funded by the Nebraska Research Initiative—supports innovative research across the University of Nebraska system.
-  
-  The TRUST-V2X project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a particular focus on real-world applications in V2X (Vehicle-to-Everything) systems.
 
+  The TRUST-V2X project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a particular focus on real-world applications in V2X (Vehicle-to-Everything) systems. 
+  
   I am actively seeking talented and motivated Ph.D. students interested in joining the research team for this project. If you are passionate about cybersecurity, AI, or autonomous systems, please feel free to reach out for more information.
 
   </div>
