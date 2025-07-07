@@ -48,14 +48,11 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
     </span>
   </summary>
   <div style="font-size: 0.95em;">
+  I am excited to announce that I have been awarded a University of Nebraska Collaboration Initiative Grant for my project, <em>TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything</em>.
 
-  I am pleased to share that I have received a University of Nebraska Collaboration Initiative Grant for my project, <em>TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything</em>.
+  This one-year, $100,000 grant—funded by the Nebraska Research Initiative—supports collaborative research across the University of Nebraska system. Our team includes faculty from UNO and UNL with expertise in wireless communication, cybersecurity, robotics, and autonomous driving systems. In this project, the project team will focus on improving the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with an emphasis on real-world V2X (Vehicle-to-Everything) applications.
 
-  This one-year, $100,000 grant—funded by the Nebraska Research Initiative—supports innovative research across the University of Nebraska system.
-
-  The TRUST-V2X project aims to strengthen the security and reliability of AI-driven collaborative sensing in autonomous vehicle networks, with a particular focus on real-world applications in V2X (Vehicle-to-Everything) systems. 
-  
-  I am actively seeking talented and motivated Ph.D. students interested in joining the research team for this project. If you are passionate about cybersecurity, AI, or autonomous systems, please feel free to reach out for more information.
+  I am currently seeking motivated Ph.D. students to join our research team. If you are interested in cybersecurity, AI, or autonomous systems, please contact me for more information.
 
   </div>
 </details>
