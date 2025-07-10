@@ -27,7 +27,7 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      April 2024: Open Graduate Assistant (GA) Position - Fall 2025
+      April 2025: Open Graduate Assistant (GA) Position - Fall 2025
     </span>
   </summary>
 
@@ -43,7 +43,7 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 
 <details>
   <summary>
-    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;">
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems
     </span>
   </summary>
