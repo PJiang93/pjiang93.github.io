@@ -56,6 +56,16 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 
   </div>
 </details>
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      July 2025: NSF CRII Award Granted for UAV Security Research
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    I am grateful to announce that my NSF CRII (CNS/SaTC) award on UAV Security has been granted. This award will support my research on enhancing the security of unmanned aerial vehicle (UAV) systems. I appreciate the support from NSF and look forward to advancing research in this important area.
+  </div>
+</details>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P5LS8FJ1QJ"></script>
