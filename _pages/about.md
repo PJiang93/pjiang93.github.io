@@ -27,18 +27,14 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      April 2025: Open Graduate Assistant (GA) Position - Fall 2025
+      July 2025: NSF CRII Award Granted for UAV Security Research
     </span>
   </summary>
-
   <div style="font-size: 0.95em;">
-    I am thrilled to share an open Graduate Assistant (GA) position starting in <strong>Fall 2025</strong>. This position will focus on the <strong>security and trustworthiness of UAV operations</strong>.<br>
-    I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other related fields. Please feel free to contact me for more details.
+    I am grateful to share the news that my NSF CRII (CNS/SaTC) award on UAV Security has been granted. This award will support my research on enhancing the security of unmanned aerial vehicle (UAV) systems. I appreciate the support from NSF and look forward to advancing research in this important area.
   </div>
-
 </details>
 
-<!-- Reduced line space using a smaller margin -->
 <div style="margin-top: 0.5em;"></div>
 
 <details>
@@ -56,15 +52,23 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 
   </div>
 </details>
+
+
+<!-- Reduced line space using a smaller margin -->
+<div style="margin-top: 0.5em;"></div>
+
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      July 2025: NSF CRII Award Granted for UAV Security Research
+      April 2025: Open Graduate Assistant (GA) Position - Fall 2025
     </span>
   </summary>
+
   <div style="font-size: 0.95em;">
-    I am grateful to announce that my NSF CRII (CNS/SaTC) award on UAV Security has been granted. This award will support my research on enhancing the security of unmanned aerial vehicle (UAV) systems. I appreciate the support from NSF and look forward to advancing research in this important area.
+    I am thrilled to share an open Graduate Assistant (GA) position starting in <strong>Fall 2025</strong>. This position will focus on the <strong>security and trustworthiness of UAV operations</strong>.<br>
+    I am seeking talented and motivated students with a strong interest in Cybersecurity, Autonomous Systems, and other related fields. Please feel free to contact me for more details.
   </div>
+
 </details>
 
 <!-- Google tag (gtag.js) -->
