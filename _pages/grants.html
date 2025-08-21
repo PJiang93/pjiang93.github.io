@@ -29,39 +29,58 @@ author_profile: true
   </li>
 </ul>
 
-Past Projects:
-<ul class="list-disc mx-3 mb-10 grid gap-2">
-  <li>
-   CCI, "A Paradigm Shift: Innovating Supply Chain Security for AI-Assisted Devices," $100k, 2024-2025, Role: <b>Co-PI</b>
-  </li>
-  <li>
-    NSF, "Improving the Success of Low-Income Students in a Cybersecurity Program,"  $1M, 2018 - 2024, Role: <b>Co-PI</b>
-  </li>
-  <li>
-    NSF, "REU Site: Deep Learning Driven Cybersecurity Research in a Multidisciplinary Environment," $405K, 2020 - 2024, Role: <b>Co-PI</b>
-  </li>
-  <li>
-    NSA, "Intelligent Learning in Cyber Defense for JROTC Students and Teachers," $175K, 2022 - 2024, Role: <b>Co-PI</b>
-  </li>
-  <li>
-    NSA, "Cybersecurity+AI: a GenCyber Camp in the Age of AI to Train K-12 Teachers for Classroom Teaching of Cybersecurity," $145K, 2021 - 2023, Role: <b>Co-PI</b>
-  </li>
-  <li>
-    CCI, "Developing a Holistic Evaluation Framework for Multi-Modal AI Security and Trustworthiness on Smart IoT Devices in NextG Wireless Networks," $50K, 2023 - 2024,  Role: <b>Co-PI</b>
-  </li>
-  <li>
-    CCI, "Spotlighting and Mitigating Cyber‐Attacks in AIoT‐enabled Maritime Transportation," $100k, 2023 - 2024,  Role: <b>Co-PI</b>
-  </li> 
-  <li>
-    CCI, "GPU Powered IoT Testbed to Expand CCI Lab Environment," $148K, 2022 - 2023, Role: <b>PI</b>
-  </li>
-  <li>
-    CCI, "Sensor Degradation Detection Algorithm for Automated Driving Systems," $200k, 2021 - 2022,  Role: <b>Senior Personnel</b>
-  </li>
-  <li>
-    CCI, "DeepPOSE: Securing Transportation Systems from GPS Spoofing Attacks," $200k,  2021 - 2022,  Role: <b>Senior Personnel</b>
-  </li>
-</ul>
+<!-- Collapsible Past Projects Section -->
+<button id="togglePastProjects" style="margin-bottom:10px; font-size:1rem; cursor:pointer;">
+  Show Past Projects ▼
+</button>
+<div id="pastProjectsSection" style="display:none;">
+  <strong>Past Projects:</strong>
+  <ul class="list-disc mx-3 mb-10 grid gap-2">
+    <li>
+      CCI, "A Paradigm Shift: Innovating Supply Chain Security for AI-Assisted Devices," $100k, 2024-2025, Role: <b>Co-PI</b>
+    </li>
+    <li>
+      NSF, "Improving the Success of Low-Income Students in a Cybersecurity Program,"  $1M, 2018 - 2024, Role: <b>Co-PI</b>
+    </li>
+    <li>
+      NSF, "REU Site: Deep Learning Driven Cybersecurity Research in a Multidisciplinary Environment," $405K, 2020 - 2024, Role: <b>Co-PI</b>
+    </li>
+    <li>
+      NSA, "Intelligent Learning in Cyber Defense for JROTC Students and Teachers," $175K, 2022 - 2024, Role: <b>Co-PI</b>
+    </li>
+    <li>
+      NSA, "Cybersecurity+AI: a GenCyber Camp in the Age of AI to Train K-12 Teachers for Classroom Teaching of Cybersecurity," $145K, 2021 - 2023, Role: <b>Co-PI</b>
+    </li>
+    <li>
+      CCI, "Developing a Holistic Evaluation Framework for Multi-Modal AI Security and Trustworthiness on Smart IoT Devices in NextG Wireless Networks," $50K, 2023 - 2024,  Role: <b>Co-PI</b>
+    </li>
+    <li>
+      CCI, "Spotlighting and Mitigating Cyber‐Attacks in AIoT‐enabled Maritime Transportation," $100k, 2023 - 2024,  Role: <b>Co-PI</b>
+    </li> 
+    <li>
+      CCI, "GPU Powered IoT Testbed to Expand CCI Lab Environment," $148K, 2022 - 2023, Role: <b>PI</b>
+    </li>
+    <li>
+      CCI, "Sensor Degradation Detection Algorithm for Automated Driving Systems," $200k, 2021 - 2022,  Role: <b>Senior Personnel</b>
+    </li>
+    <li>
+      CCI, "DeepPOSE: Securing Transportation Systems from GPS Spoofing Attacks," $200k,  2021 - 2022,  Role: <b>Senior Personnel</b>
+    </li>
+  </ul>
+</div>
+<script>
+  const btn = document.getElementById('togglePastProjects');
+  const section = document.getElementById('pastProjectsSection');
+  btn.addEventListener('click', function() {
+    if (section.style.display === 'none') {
+      section.style.display = 'block';
+      btn.textContent = 'Hide Past Projects ▲';
+    } else {
+      section.style.display = 'none';
+      btn.textContent = 'Show Past Projects ▼';
+    }
+  });
+</script>
 
 
 <p style="font-size: 0.8rem; text-align: left; margin-top: 20px;">
