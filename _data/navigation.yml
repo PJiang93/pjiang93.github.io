@@ -20,8 +20,8 @@ main:
   - title: "Grants"
     url: /grants/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "ASTAR Lab"
+    url: /astar-lab/
     
   - title: "CV"
     url: /cv/
