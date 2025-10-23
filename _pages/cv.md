@@ -38,7 +38,7 @@ Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Awards:
+Awards
 ======
 * CISE Research Initiation Initiative (CRII) Award, NSF SaTC, 2025  
 * Research and Creative Activity Award, University of Nebraska at Omaha (UNO), 2025  
@@ -47,16 +47,23 @@ Awards:
 
 Publications
 ======
+<h3>Journal Articles</h2>
 <hr />
 <ul>
-  <!-- <li>P. Jiang, L. Zhu, H. Wu, C. Xin, "GeoSync: Autonomous Vehicle Navigation via Transformer-Based Geospatial Synchronization," Submitted to <em>IEEE Conference on Dependable Systems and Networks (DSN 2024)</em>.</li> -->
-  <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, G. Zhou, C. Xin, "SEEK+: Securing Vehicle GPS via a Sequential Dashcam-Based Vehicle Localization Framework," <em>Pervasive and Mobile Computing (PMC)</em>, vol. 100, 2024.</li>
-  <li>E. Fathalla, S. Zargarzadeh, C. Xin, H. Wu, P. Jiang, J. Santos, J. Kibilda, "Beam Profiling and Beamforming Modeling for mmWave NextG Networks," in Proceedings of the <em>IEEE International Conference on Computer Communications and Networks (ICCCN)</em>, Waikiki Beach, Honolulu, HI, USA, 2023.</li>
+  <li>W. Purwanto, M. Yang, P. Jiang, M. Sosonkina, "T3-CIDERS: Fostering a Community of Practice in CI-and Data Enabled Cybersecurity Research Through a Train-the-Trainer Program," <em>Journal of Computational Science Education</em>, vol. 16 (1), pp. 16-19, 2025.</li>
+  <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, G. Zhou, C. Xin, "SEEK+: Securing Vehicle GPS via a Sequential Dashcam-Based Vehicle Localization Framework," <em>Pervasive and Mobile Computing</em>, vol. 100, pp. 101916, 2024.</li>
   <li>U. Lee, P. Jiang, H. Wu, C. Xin, "View Synthesis with Scene Recognition for Cross-View Image Localization," <em>Future Internet</em>, vol. 15 (4), 2023.</li>
-  <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, C. Xin, "SEEK: Detecting GPS Spoofing via a Sequential Dashcam-Based Vehicle Localization Framework," in Proceedings of the <em>IEEE Conference on Pervasive Computing and Communications (PerCom)</em>, Atlanta, GA, USA, 2023 (Acceptance Ratio: 17.9%).</li>
   <li>P. Jiang, H. Wu, C. Xin, "DeepPOSE: Detecting GPS spoofing attack via deep recurrent neural network," <em>Digital Communications and Networks</em>, vol. 8 (5), pp. 791-803, 2022 (Impact Factor: 6.348).</li>
   <li>P. Jiang, H. Wu, C. Xin, "A channel state information based virtual MAC spoofing detector," <em>High-Confidence Computing</em>, vol. 2 (3), 2022.</li>
   <li>P. Jiang, M. Zhou, W. Song, "Priority Based Routing and Link Scheduling for Cognitive Radio Networks," <em>EAI Endorsed Transactions on Wireless Spectrum</em>, vol. 4 (13), 2020.</li>
+</ul>
+
+<h3>Conference Proceedings</h2>
+<hr />
+<ul>
+  <li>W. Purwanto, M. Yang, P. Jiang, S. Chappell Moots, M. Sosonkina, H. Wu, "T3-CIDERS: Train-the-Trainer and Community Building to Increase Cyberinfrastructure Adoption in Cybersecurity Research and Education," in Proceedings of the ACM <em>Practice and Experience in Advanced Research Computing (PEARC '25)</em>, 2025. <strong>(Best Paper Award)</strong></li>
+  <li>E. Fathalla, S. Zargarzadeh, C. Xin, H. Wu, P. Jiang, J. Santos, J. Kibilda, "Beam Profiling and Beamforming Modeling for mmWave NextG Networks," in Proceedings of the <em>IEEE International Conference on Computer Communications and Networks (ICCCN)</em>, Waikiki Beach, Honolulu, HI, USA, 2023.</li>
+  <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, C. Xin, "SEEK: Detecting GPS Spoofing via a Sequential Dashcam-Based Vehicle Localization Framework," in Proceedings of the <em>IEEE Conference on Pervasive Computing and Communications (PerCom)</em>, Atlanta, GA, USA, 2023 (Acceptance Ratio: 17.9%).</li>
   <li>P. Jiang, H. Wu, C. Xin, "Virtual MAC spoofing detection through deep learning," in Proceedings of the <em>IEEE International Conference on Communications (ICC)</em>, 2018.</li>
   <li>P. Jiang, C. Xin, M. Song, "Disruption aware routing and link scheduling for cognitive radio networks," in Proceedings of the <em>IEEE International Conference on Computing, Networking and Communications (ICNC)</em>, 2017.</li>
   <li>P. Jiang, X. Tian, C. Xin, W. He, "Teaching Hands-On Cyber Defense Labs to Middle School and High School Students: Our Experience from GenCyber Camps," in <em>EdMedia+ Innovate Learning</em>, Association for the Advancement of Computing in Education (AACE), 2017.</li>
