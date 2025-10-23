@@ -38,6 +38,13 @@ Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
+Awards:
+======
+* CISE Research Initiation Initiative (CRII) Award, NSF SaTC, 2025  
+* Research and Creative Activity Award, University of Nebraska at Omaha (UNO), 2025  
+* Best Paper Award, PEARC '25 — Best Paper (Full Paper, Workforce Development, Training, Education & Community)
+
+
 Publications
 ======
 <hr />
