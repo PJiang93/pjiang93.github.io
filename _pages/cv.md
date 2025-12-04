@@ -50,6 +50,8 @@ Publications
 <hr />
 <ul>
   <!-- <li>P. Jiang, L. Zhu, H. Wu, C. Xin, "GeoSync: Autonomous Vehicle Navigation via Transformer-Based Geospatial Synchronization," Submitted to <em>IEEE Conference on Dependable Systems and Networks (DSN 2024)</em>.</li> -->
+  <li>W. Purwanto, M. Yang, P. Jiang, M. Sosonkina, "T3-CIDERS: Fostering a Community of Practice in CI-and Data Enabled Cybersecurity Research Through a Train-the-Trainer Program," <em>Journal of Computational Science Education</em>, vol. 16 (1), pp. 16-19, 2025.</li>
+  <li>W. Purwanto, M. Yang, P. Jiang, S. Chappell Moots, M. Sosonkina, H. Wu, "T3-CIDERS: Train-the-Trainer and Community Building to Increase Cyberinfrastructure Adoption in Cybersecurity Research and Education," in Proceedings of the ACM <em>Practice and Experience in Advanced Research Computing (PEARC '25)</em>, 2025. <strong>(Best Paper Award)</strong></li>
   <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, G. Zhou, C. Xin, "SEEK+: Securing Vehicle GPS via a Sequential Dashcam-Based Vehicle Localization Framework," <em>Pervasive and Mobile Computing (PMC)</em>, vol. 100, 2024.</li>
   <li>E. Fathalla, S. Zargarzadeh, C. Xin, H. Wu, P. Jiang, J. Santos, J. Kibilda, "Beam Profiling and Beamforming Modeling for mmWave NextG Networks," in Proceedings of the <em>IEEE International Conference on Computer Communications and Networks (ICCCN)</em>, Waikiki Beach, Honolulu, HI, USA, 2023.</li>
   <li>U. Lee, P. Jiang, H. Wu, C. Xin, "View Synthesis with Scene Recognition for Cross-View Image Localization," <em>Future Internet</em>, vol. 15 (4), 2023.</li>
