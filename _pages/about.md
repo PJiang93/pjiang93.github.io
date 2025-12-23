@@ -27,6 +27,20 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      June 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. 
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    Our paper, <em>D-SYNC: Enhancing Vehicle Localization with Dashcam-Satellite Image Synchronization</em>, has been accepted to IEEE PerCom 2026, a premier conference on pervasive computing, with an acceptance rate of 15.62%.
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       July 2025: NSF CRII Award Granted for UAV Security Research
     </span>
   </summary>
