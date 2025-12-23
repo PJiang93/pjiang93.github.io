@@ -21,13 +21,25 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
   - Unmanned Aerial Vehicle
   - Smart Agriculture
 
+## Prospective Ph.D. Students
+I am actively seeking motivated Ph.D. students to join my research group.  Students will work on the projects on cybersecurity, AI-driven cyber-physical systems, autonomous vehicles, V2X, and multi-modal sensing, with opportunities to work on NSF- and state-funded projects and collaborate with researchers across institutions.
+
+Preferred background and qualifications:
+- Bachelor’s or Master’s degree in Computer Science (CS), Electrical and Computer Engineering (ECE), or a closely related field
+- Experience or strong interest in wireless communication, communication networks, or networking systems
+- Experience with or interest in AI/ML/DL, especially applied to cyber-physical systems
+- Hands-on experience with experiments, system implementation, or data-driven research is a plus
+- Strong programming skills (e.g., Python, C/C++, or related languages)
+
+Prospective students are encouraged to email me their CV, transcripts, and a brief statement of research interests.
+
 
 ## Recent News
 
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      Dec 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. 
+      Dec 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. Merry Christmas! 
     </span>
   </summary>
   <div style="font-size: 0.95em;">
