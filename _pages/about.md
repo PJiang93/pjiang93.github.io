@@ -27,7 +27,7 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      June 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. 
+      Dec 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. 
     </span>
   </summary>
   <div style="font-size: 0.95em;">
@@ -37,6 +37,19 @@ I am an Assistant Professor of Cybersecurity at the School of Interdisciplinary 
 
 <div style="margin-top: 0.5em;"></div>
 
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Oct 2025: Serving as Symposium Chair at IEEE ICNC 2026
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    I am honored to serve as the Edge Computing, Cloud Computing, and Big Data (ECB) Symposium Chair and Workshop Chair for IEEE ICNC 2026. See you in Maui in February 2026!
+  </div>
+</details>
+
+
+<div style="margin-top: 0.5em;"></div>
 
 <details>
   <summary>
