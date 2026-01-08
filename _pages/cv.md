@@ -56,6 +56,10 @@ Publications
   to appear in <em>IEEE Conference on Pervasive Computing and Communications (PerCom)</em>,
   Pisa, Italy, 2026 (Acceptance Ratio: 15.62%).
 </li>
+ <li>H. Wang, D. Kaseya, B. Tran, P. Jiang, B. Sheng, X. Zhang, "Collision-Responsive Micro-Scheduling for 802.11: Broadcast NAKs and Contender-Count Scaled Backoff," to appear in <em>IEEE International Conference on Computing, Networking and Communications (ICNC)</em>, 2026.</li>
+  
+  <li>B. Tran, H. Wang, X. Zhang, P. Jiang, "Exploring Safer Image Sharing: A Vision-Language Approach to Privacy Risk Detection and Protection," in Proceedings of the <em>Data Security and LLM Safety in Smart Systems (DLS) Workshop, Co-located with IEEE MASS </em>, 2025.</li>
+
   <li>W. Purwanto, M. Yang, P. Jiang, M. Sosonkina, "T3-CIDERS: Fostering a Community of Practice in CI-and Data Enabled Cybersecurity Research Through a Train-the-Trainer Program," <em>Journal of Computational Science Education</em>, vol. 16 (1), pp. 16-19, 2025.</li>
   <li>W. Purwanto, M. Yang, P. Jiang, S. Chappell Moots, M. Sosonkina, H. Wu, "T3-CIDERS: Train-the-Trainer and Community Building to Increase Cyberinfrastructure Adoption in Cybersecurity Research and Education," in Proceedings of the ACM <em>Practice and Experience in Advanced Research Computing (PEARC '25)</em>, 2025. <strong>(Best Paper Award)</strong></li>
   <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, G. Zhou, C. Xin, "SEEK+: Securing Vehicle GPS via a Sequential Dashcam-Based Vehicle Localization Framework," <em>Pervasive and Mobile Computing (PMC)</em>, vol. 100, 2024.</li>
