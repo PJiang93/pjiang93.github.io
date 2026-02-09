@@ -39,6 +39,21 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Feb 2026: UNO Drone Security Research Featured by First Alert 6 (WOWT)
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    Our ongoing research at the University of Nebraska at Omaha College of Information Science & Technology on improving drone security was featured by First Alert 6 (WOWT). The story highlights early research efforts aimed at strengthening the security and resilience of drones, particularly in the context of public safety applications such as Omaha’s Drones as First Responders program.
+    <br />
+    <a href="https://www.wowt.com/2026/02/06/uno-researchers-developing-drone-hacking-defenses-omaha/" target="_blank">Read the news coverage</a>.
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Dec 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. Merry Christmas! 
     </span>
   </summary>
