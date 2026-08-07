@@ -3,20 +3,8 @@ layout: archive
 permalink: /astar-lab/
 title: "ASTAR Lab: Autonomous Systems TRust &amp; Assurance"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-<!-- {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %} -->
 <img src="/images/ASTAR-logo-final.png" alt="ASTAR Lab Logo" style="max-width:300px; display:block; margin: 0 auto 2em auto;">
 
 <p>
@@ -29,10 +17,44 @@ redirect_from:
 
 <h3>Students</h3>
 <ul>
-  <li><strong>Dev Patel</strong> – Graduate Student, Focus: Vision-Based Navigation.</li>
-  <li><strong>Kowshik</strong> – Graduate Student, Focus: AI application on UAVs.</li>
-  <li><strong>Augusto</strong> – Graduate Student, Focus: Cyber resilience UAV Operations.</li>
+  <li><strong>Zhiyuan Chen</strong> – Ph.D. Student</li>
+  <li><strong>Kowshik</strong> – Graduate Assistant (GA)</li>
 </ul>
+
+<h2>Past Members</h2>
+<ul>
+  <li><strong>Dev Patel</strong> – Graduate Student</li>
+  <li><strong>Augusto</strong> – Graduate Student</li>
+</ul>
+
+<hr>
+
+<h2>Research Facilities &amp; Equipment</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5em; margin-bottom: 1.5em;">
+  <figure style="margin: 0;">
+    <img src="/images/equipment-diy-drone.jpg" alt="Custom-built research drone with flight controller and remote controller" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">
+      <strong>MM-AIR UAV Testbed</strong> — custom-built research drones with PX4 flight controller, onboard computing, camera, and telemetry radio for flight-operational UAV security experiments.
+    </figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/equipment-uav-sensing-testbed.jpg" alt="Distributed Raspberry Pi wireless sensing nodes and a drone mounted on tripods outdoors" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">
+      <strong>Wireless UAV Sensing Testbed</strong> — distributed Raspberry Pi nodes for WiFi CSI and RSSI sensing, supporting outdoor UAV detection, tracking, and RF-source analysis.
+    </figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/equipment-self-driving-vehicle.png" alt="Full-size self-driving vehicle testbed with roof-mounted sensor suite" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px;">
+    <figcaption style="font-size: 0.85em; margin-top: 0.5em;">
+      <strong>Full-Size Self-Driving Vehicle</strong> — equipped with LiDAR, camera, radar, IMU, and GNSS, accessible through our collaboration with Dr. Ho's <a href="https://avrlab.unl.edu/">Autonomous Vehicles and Robotics Laboratory</a> at UNL.
+    </figcaption>
+  </figure>
+</div>
+
+<p style="font-size: 0.9em;">
+  The lab also has access to <strong>Douglas County GIS data</strong> — 4&nbsp;TB of aerial imagery covering the Omaha area plus airborne LiDAR — supporting research on cross-view localization and GPS-independent navigation.
+</p>
 
 <hr>
 
