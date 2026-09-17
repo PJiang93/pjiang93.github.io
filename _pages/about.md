@@ -39,6 +39,21 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Sep 2026: Ph.D. Student Zhiyuan Chen's First Paper Published in IEEE Systems, Man, and Cybernetics Letters
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    I am excited to share that my Ph.D. student, Zhiyuan Chen, who joined our team this summer, has published his first work in <em>IEEE Systems, Man, and Cybernetics Letters (L-SMC)</em>. The paper addresses an often-overlooked bottleneck in autonomous multi-camera perception systems: data overload. When edge platforms such as the NVIDIA Jetson AGX Orin are overwhelmed with video frames, the system drops frames randomly and leaves surviving frames waiting in stale queues. To address this, we developed <em>VISTA</em>, a lightweight pre-inference admission framework that prioritizes frames based on freshness and service history instead of random frame loss. In physical runs, VISTA reduced processing delay from 244 ms to 92 ms while maintaining 92% throughput. Incredibly proud of Zhiyuan for hitting the ground running this summer!
+    <br />
+    <a href="https://ieeexplore.ieee.org/document/11691300" target="_blank">Read the early-access paper</a>: VISTA: Value-Driven Inference Scheduling for Timely Autonomous Multi-Camera Perception.
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Aug 2026: Attending the 7th NSF SaTC PI Meeting in College Park, Maryland
     </span>
   </summary>
@@ -69,6 +84,32 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Jul 2026: New NRI Grant Awarded for Nebraska Agricultural Camera Networking
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    Our project <em>NE-AGCAMNET: Nebraska Agricultural Camera Networking for High-Fidelity Plant Health Monitoring</em> has been funded by the Nebraska Research Initiative (NRI) for 2026-2027. Led by Dr. Xiaoqian Zhang (PI) with me as Co-PI, the project extends our work on secure wireless sensing to field-deployed camera networks for plant health monitoring in Nebraska agriculture. This is our second NRI project together, following the ongoing project on IoT wireless networks and federated learning-based rate adaptation.
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Jun 2026: Welcome Zhiyuan Chen, the First Ph.D. Student of the ASTAR Lab
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    Zhiyuan Chen has joined the <a href="/astar-lab/">ASTAR Lab</a> as its first Ph.D. student. His research focuses on timely and trustworthy multi-camera perception and inference scheduling for autonomous systems on embedded platforms. Welcome aboard, Zhiyuan!
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Feb 2026: UNO Drone Security Research Featured by First Alert 6 (WOWT)
     </span>
   </summary>
@@ -84,11 +125,39 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Jan 2026: Lead Facilitator at the T3-CIDERS Winter Institute 2026, University of Arizona
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    I served as Lead Facilitator for the T3-CIDERS Winter Institute 2026, held January 5-9 at the University of Arizona in Tucson, AZ. Supported by the NSF CyberTraining program, this five-day train-the-trainer institute builds advanced cyberinfrastructure skills, including HPC, big data, machine learning, cryptography, and parallel programming, for cybersecurity research and education. I coordinated and led the training sessions and mentoring activities for the second cohort of future trainers.
+    <br />
+    <a href="https://sites.wp.odu.edu/t3-ciders/" target="_blank">Learn more about T3-CIDERS</a>.
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Dec 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. Merry Christmas! 
     </span>
   </summary>
   <div style="font-size: 0.95em;">
     Our paper, <em>D-SYNC: Enhancing Vehicle Localization with Dashcam-Satellite Image Synchronization</em>, has been accepted to IEEE PerCom 2026, a premier conference on pervasive computing, with an acceptance rate of 15.62%.
+  </div>
+</details>
+
+<div style="margin-top: 0.5em;"></div>
+
+<details>
+  <summary>
+    <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
+      Oct 2025: Received the UNO Research and Creative Activity Award
+    </span>
+  </summary>
+  <div style="font-size: 0.95em;">
+    I am honored to receive the Research and Creative Activity Award from the University of Nebraska at Omaha Office of Research and Creative Activity (ORCA) on October 23, 2025.
   </div>
 </details>
 

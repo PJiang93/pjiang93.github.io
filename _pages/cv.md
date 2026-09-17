@@ -49,18 +49,22 @@ Publications
 ======
 <hr />
 <ul>
+  <li>Z. Chen, D. Zhang, X. Zhang, P.-C. Huang, C.-H. Ho, P. Jiang, "VISTA: Value-Driven Inference Scheduling for Timely Autonomous Multi-Camera Perception," <em>IEEE Systems, Man, and Cybernetics Letters</em>, 2026 (Early Access).</li>
+  <li>W. Purwanto, M. Yang, P. Jiang, D. X. Parry, B. Li, K. Herman, N. Lovett, S. Chappell Moots, M. Sosonkina, H. Wu, "T3-CIDERS Train-the-Trainers: Strengthening CI Skills for Cybersecurity Research and Education through Iterative Improvements in Second Cohort," in the <em>Ninth Workshop on Strategies for Enhancing HPC Education and Training (SEHET26)</em>, held with ACM PEARC 2026, Minneapolis, MN, USA, 2026.</li>
+  <li>G. E. Sian-Bates, S. K. Li, K. Chowdhury, P. Jiang, "Machine Learning-Based Detection of External Gunshot Sound Sources in Propeller Acoustic Near Field," in Proceedings of the <em>Vertical Flight Society 82nd Annual Forum and Technology Display</em>, 2026.</li>
   <!-- <li>P. Jiang, L. Zhu, H. Wu, C. Xin, "GeoSync: Autonomous Vehicle Navigation via Transformer-Based Geospatial Synchronization," Submitted to <em>IEEE Conference on Dependable Systems and Networks (DSN 2024)</em>.</li> -->
   <li>
   P. Jiang, L. Zhu, R. Ning, H. Wu, C. Xin,
   "D-SYNC: Enhancing Vehicle Localization with Dashcam-Satellite Image Synchronization,"
-  to appear in <em>IEEE Conference on Pervasive Computing and Communications (PerCom)</em>,
+  in Proceedings of the <em>IEEE Conference on Pervasive Computing and Communications (PerCom)</em>,
   Pisa, Italy, 2026 (Acceptance Ratio: 15.62%).
 </li>
- <li>H. Wang, D. Kaseya, B. Tran, P. Jiang, B. Sheng, X. Zhang, "Collision-Responsive Micro-Scheduling for 802.11: Broadcast NAKs and Contender-Count Scaled Backoff," to appear in <em>IEEE International Conference on Computing, Networking and Communications (ICNC)</em>, 2026.</li>
+ <li>H. Wang, D. Kaseya, B. Tran, P. Jiang, B. Sheng, X. Zhang, "Collision-Responsive Micro-Scheduling for 802.11: Broadcast NAKs and Contender-Count Scaled Backoff," in Proceedings of the <em>IEEE International Conference on Computing, Networking and Communications (ICNC)</em>, Maui, HI, USA, 2026.</li>
   
   <li>B. Tran, H. Wang, X. Zhang, P. Jiang, "Exploring Safer Image Sharing: A Vision-Language Approach to Privacy Risk Detection and Protection," in Proceedings of the <em>Data Security and LLM Safety in Smart Systems (DLS) Workshop, Co-located with IEEE MASS </em>, 2025.</li>
 
   <li>W. Purwanto, M. Yang, P. Jiang, M. Sosonkina, "T3-CIDERS: Fostering a Community of Practice in CI-and Data Enabled Cybersecurity Research Through a Train-the-Trainer Program," <em>Journal of Computational Science Education</em>, vol. 16 (1), pp. 16-19, 2025.</li>
+  <li>N. Lovett, M. Yang, K. Herman, B. Li, M. Sosonkina, W. Purwanto, P. Jiang, H. Wu, "Leveraging Large Language Models to Create Learner Personas for Training Design," <em>The Journal of Applied Instructional Design</em>, vol. 14 (3), 2025.</li>
   <li>W. Purwanto, M. Yang, P. Jiang, S. Chappell Moots, M. Sosonkina, H. Wu, "T3-CIDERS: Train-the-Trainer and Community Building to Increase Cyberinfrastructure Adoption in Cybersecurity Research and Education," in Proceedings of the ACM <em>Practice and Experience in Advanced Research Computing (PEARC '25)</em>, 2025. <strong>(Best Paper Award)</strong></li>
   <li>P. Jiang, H. Wu, Y. Zhao, D. Zhao, G. Zhou, C. Xin, "SEEK+: Securing Vehicle GPS via a Sequential Dashcam-Based Vehicle Localization Framework," <em>Pervasive and Mobile Computing (PMC)</em>, vol. 100, 2024.</li>
   <li>E. Fathalla, S. Zargarzadeh, C. Xin, H. Wu, P. Jiang, J. Santos, J. Kibilda, "Beam Profiling and Beamforming Modeling for mmWave NextG Networks," in Proceedings of the <em>IEEE International Conference on Computer Communications and Networks (ICCCN)</em>, Waikiki Beach, Honolulu, HI, USA, 2023.</li>
@@ -80,11 +84,20 @@ Grant
 
 Active Project: 
 <ul class="list-disc mx-3 mb-10 grid gap-2">
-    <li>
-    <b>[New]</b> NRI, "TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything,"  $100K, 2025 - 2026, Role: <b>PI</b>, Project Website: TBA. 
+  <li>
+    <b>[New]</b> NSF, "CRII: SaTC: MUSE: MUlti-modal Security Enhancement for Cyber Resilient UAV Operation," Period: 10/01/2025 - 09/30/2027, $175K, Role: <b>Sole-PI</b>, Project Info: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2451471&HistoricalAwards=false">MUSE</a>
   </li>
   <li>
-    NSF, "CyberTraining: T3-CIDERS: A Train-the-Trainer Approach to Fostering CI- and Data-Enabled Research in CyberSecurity,"  $750K, 2023 - 2026, Role: <b>Co-PI</b>, Project Website: <a href="https://sites.wp.odu.edu/t3-ciders/">T3-CIDERS</a>
+    NSF, "CyberTraining: T3-CIDERS: A Train-the-Trainer Approach to Fostering CI- and Data-Enabled Research in CyberSecurity,"  $750K, 2023 - 2027, Role: <b>Co-PI</b>, Project Website: <a href="https://sites.wp.odu.edu/t3-ciders/">T3-CIDERS</a>
+  </li>
+  <li>
+    <b>[New]</b> NRI, "NE-AGCAMNET: Nebraska Agricultural Camera Networking for High-Fidelity Plant Health Monitoring," $100K, 2026 - 2027, Role: <b>Co-PI</b> (PI: X. Zhang), Project Website: TBA.
+  </li>
+  <li>
+    NRI, "TRUST-V2X: Enhancing Security and Trustworthiness of AI in Multi-Modal Collaborative Sensing for Autonomous Vehicles to Everything,"  $100K, 2025 - 2026, Role: <b>PI</b>, Project Website: TBA. 
+  </li>
+  <li>
+    NRI, "Optimizing Agricultural Efficiency in Nebraska through Advanced IoT Wireless Networks and Federated Learning-Based Rate Adaptation," $100K, 2025 - 2026, Role: <b>Co-PI</b> (share: $33k), Project Website: TBA.
   </li>
 </ul>
 
