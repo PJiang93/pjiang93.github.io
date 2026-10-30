@@ -49,7 +49,7 @@ Publications
 ======
 <hr />
 <ul>
-  <li>P. Jiang, X. Zhang, X. Xing, H. Wu, C. Xin, "Geo-Tag Decoupling: Protecting Satellite References Against Unauthorized Image-Based Localization," in Proceedings of the <em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys)</em>, Boulder, CO, USA, 2027.</li>
+  <li>P. Jiang, X. Zhang, X. Xing, H. Wu, C. Xin, "Geo-Tag Decoupling: Protecting Satellite References Against Unauthorized Image-Based Localization," in Proceedings of the <em>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys)</em>, Boulder, CO, USA, 2027, to appear.</li>
   <li>Z. Chen, D. Zhang, X. Zhang, P.-C. Huang, C.-H. Ho, P. Jiang, "VISTA: Value-Driven Inference Scheduling for Timely Autonomous Multi-Camera Perception," <em>IEEE Systems, Man, and Cybernetics Letters</em>, 2026 (Early Access).</li>
   <li>W. Purwanto, M. Yang, P. Jiang, D. X. Parry, B. Li, K. Herman, N. Lovett, S. Chappell Moots, M. Sosonkina, H. Wu, "T3-CIDERS Train-the-Trainers: Strengthening CI Skills for Cybersecurity Research and Education through Iterative Improvements in Second Cohort," in the <em>Ninth Workshop on Strategies for Enhancing HPC Education and Training (SEHET26)</em>, held with ACM PEARC 2026, Minneapolis, MN, USA, 2026.</li>
   <li>G. E. Sian-Bates, S. K. Li, K. Chowdhury, P. Jiang, "Machine Learning-Based Detection of External Gunshot Sound Sources in Propeller Acoustic Near Field," in Proceedings of the <em>Vertical Flight Society 82nd Annual Forum and Technology Display</em>, 2026.</li>
