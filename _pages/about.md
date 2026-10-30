@@ -39,11 +39,11 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details>
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      Oct 2026: Paper Accepted at ACM/IEEE SenSys 2027
+      Oct 2026: Paper Accepted at ACM/IEEE SenSys 2027. See you in Boulder, CO!
     </span>
   </summary>
   <div style="font-size: 0.95em;">
-    Our paper <em>Geo-Tag Decoupling: Protecting Satellite References Against Unauthorized Image-Based Localization</em> has been accepted at the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2027). When paired with geo-tagged satellite reference databases, an ordinary ground-level photo can reveal where it was taken, even without GPS, EXIF metadata, or device access. We identify the geo-tagged satellite reference database as a privacy-critical trust boundary and introduce <em>geo-tag decoupling</em>, a reference-side protection that perturbs satellite tiles so their learned embeddings move across regional cluster boundaries, breaking the link between satellite appearance and geographic identity while preserving visual usability. Across two benchmarks and three vision backbones, it achieves 100% white-box top-1 escape and up to ~83% cross-architecture transfer. Joint work with Xiaoqian Zhang, Xin Xing, Hongyi Wu, and Chunsheng Xin. See you in Boulder, CO!
+    Our paper <em>Geo-Tag Decoupling: Protecting Satellite References Against Unauthorized Image-Based Localization</em> has been accepted at the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2027). When paired with geo-tagged satellite reference databases, an ordinary ground-level photo can reveal where it was taken, even without GPS, EXIF metadata, or device access. We identify the geo-tagged satellite reference database as a privacy-critical trust boundary and introduce <em>geo-tag decoupling</em>, a reference-side protection that perturbs satellite tiles so their learned embeddings move across regional cluster boundaries, breaking the link between satellite appearance and geographic identity while preserving visual usability. Across two benchmarks and three vision backbones, it achieves 100% white-box top-1 escape and up to ~83% cross-architecture transfer.
   </div>
 </details>
 
