@@ -399,3 +399,17 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Recent News: color-code announcements on the homepage (default, paper, grant) */
+
+details summary {
+  color: var(--global-news-color);
+}
+
+details.news-paper summary {
+  color: var(--global-news-paper-color);
+}
+
+details.news-grant summary {
+  color: var(--global-news-grant-color);
+}

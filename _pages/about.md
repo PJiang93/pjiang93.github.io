@@ -36,7 +36,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 
 ## Recent News
 
-<details>
+<details class="news-paper">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Oct 2026: Paper Accepted at ACM/IEEE SenSys 2027. See you in Boulder, CO!
@@ -49,7 +49,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 
 <div style="margin-top: 0.5em;"></div>
 
-<details>
+<details class="news-paper">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Sep 2026: Ph.D. Student Zhiyuan Chen's First Paper Published in IEEE Systems, Man, and Cybernetics Letters
@@ -94,7 +94,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 
 <div style="margin-top: 0.5em;"></div>
 
-<details>
+<details class="news-grant">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Jul 2026: New NRI Grant Awarded for Nebraska Agricultural Camera Networking
@@ -150,7 +150,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 
 <div style="margin-top: 0.5em;"></div>
 
-<details>
+<details class="news-paper">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       Dec 2025: Paper Accepted at IEEE PerCom 2026, Pisa, Italy. Merry Christmas! 
@@ -190,7 +190,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 
 <div style="margin-top: 0.5em;"></div>
 
-<details>
+<details class="news-grant">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       July 2025: NSF CRII Award Granted for UAV Security Research
@@ -203,7 +203,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 
 <div style="margin-top: 0.5em;"></div>
 
-<details>
+<details class="news-grant">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
       June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems
