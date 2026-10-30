@@ -97,7 +97,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details class="news-grant">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      Jul 2026: New NRI Grant Awarded for Nebraska Agricultural Camera Networking
+      Jul 2026: NRI Grant Awarded for Nebraska Agricultural Camera Networking
     </span>
   </summary>
   <div style="font-size: 0.95em;">
@@ -206,7 +206,7 @@ Prospective students are encouraged to email me their CV, transcripts, and a bri
 <details class="news-grant">
   <summary>
     <span style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif; font-size: 0.95em;">
-      June 2025: Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems
+      June 2025: NRI Grant Awarded for Enhancing Security and Trustworthiness in V2X Systems
     </span>
   </summary>
   <div style="font-size: 0.95em;">
